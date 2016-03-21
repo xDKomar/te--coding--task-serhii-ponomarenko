@@ -1,0 +1,7 @@
+D:\SeleniumTasks\Task2\HttpCodeTest\HttpCodeTest\bin\Debug\HttpCodeTest.dll
+D:\SeleniumTasks\Task2\HttpCodeTest\HttpCodeTest\bin\Debug\HttpCodeTest.pdb
+D:\SeleniumTasks\Task2\HttpCodeTest\HttpCodeTest\bin\Debug\nunit.framework.dll
+D:\SeleniumTasks\Task2\HttpCodeTest\HttpCodeTest\bin\Debug\nunit.framework.xml
+D:\SeleniumTasks\Task2\HttpCodeTest\HttpCodeTest\obj\Debug\HttpCodeTest.csprojResolveAssemblyReference.cache
+D:\SeleniumTasks\Task2\HttpCodeTest\HttpCodeTest\obj\Debug\HttpCodeTest.dll
+D:\SeleniumTasks\Task2\HttpCodeTest\HttpCodeTest\obj\Debug\HttpCodeTest.pdb

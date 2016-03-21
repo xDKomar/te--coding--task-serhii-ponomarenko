@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTask1", "SeleniumTask1\SeleniumTask1.csproj", "{B7C7CF58-4CF9-4342-9DF0-E3DD502E113D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpCodeTest", "HttpCodeTest\HttpCodeTest.csproj", "{FDBA88DA-C17D-4591-8E85-CF10CAE49D87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B7C7CF58-4CF9-4342-9DF0-E3DD502E113D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7C7CF58-4CF9-4342-9DF0-E3DD502E113D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7C7CF58-4CF9-4342-9DF0-E3DD502E113D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7C7CF58-4CF9-4342-9DF0-E3DD502E113D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDBA88DA-C17D-4591-8E85-CF10CAE49D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBA88DA-C17D-4591-8E85-CF10CAE49D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBA88DA-C17D-4591-8E85-CF10CAE49D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBA88DA-C17D-4591-8E85-CF10CAE49D87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
