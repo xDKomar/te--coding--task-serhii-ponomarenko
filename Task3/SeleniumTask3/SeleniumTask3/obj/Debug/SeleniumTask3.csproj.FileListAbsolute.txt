@@ -1,0 +1,10 @@
+D:\SeleniumTasks\Task3\SeleniumTask3\SeleniumTask3\obj\Debug\SeleniumTask3.csprojResolveAssemblyReference.cache
+D:\SeleniumTasks\Task3\SeleniumTask3\SeleniumTask3\bin\Debug\chromedriver.exe
+D:\SeleniumTasks\Task3\SeleniumTask3\SeleniumTask3\bin\Debug\SeleniumTask3.dll
+D:\SeleniumTasks\Task3\SeleniumTask3\SeleniumTask3\bin\Debug\SeleniumTask3.pdb
+D:\SeleniumTasks\Task3\SeleniumTask3\SeleniumTask3\bin\Debug\nunit.framework.dll
+D:\SeleniumTasks\Task3\SeleniumTask3\SeleniumTask3\bin\Debug\WebDriver.dll
+D:\SeleniumTasks\Task3\SeleniumTask3\SeleniumTask3\bin\Debug\nunit.framework.xml
+D:\SeleniumTasks\Task3\SeleniumTask3\SeleniumTask3\bin\Debug\WebDriver.xml
+D:\SeleniumTasks\Task3\SeleniumTask3\SeleniumTask3\obj\Debug\SeleniumTask3.dll
+D:\SeleniumTasks\Task3\SeleniumTask3\SeleniumTask3\obj\Debug\SeleniumTask3.pdb
